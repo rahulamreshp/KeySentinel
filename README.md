@@ -1,7 +1,7 @@
 # PRODIGY_CS_04
-# StrokeLogger
+# KeySentinel: Stroke Logger
 
-The StrokeLogger is a discreet monitoring utility designed to capture keyboard input and log it into a text file. It serves as a tool for tracking user activity, often employed for security auditing, parental control, or employee monitoring purposes.
+The Stroke Logger is a discreet monitoring utility designed to capture keyboard input and log it into a text file. It serves as a tool for tracking user activity, often employed for security auditing, parental control, or employee monitoring purposes.
 
 # Usage
 pip install requirements.txt
